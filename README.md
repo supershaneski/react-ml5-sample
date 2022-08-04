@@ -5,7 +5,7 @@ This React project is bootstrapped using [Vite](https://vitejs.dev/guide/).
 
 # Goal
 
-The goal of this project is to explore [ml5.js](https://learn.ml5js.org), the machine learning library for Javascript.
+The goal of this project is to explore [ml5.js](https://learn.ml5js.org), the machine learning library for the web.
 
 I made a simple implementation of image classifier app using ml5.js.
 
