@@ -15,7 +15,7 @@ I made a simple implementation of image classifier app using ml5.js.
 
 User can load image or take picture (if using mobile device/tablet).
 
-After the image is loaded and referenced passed via `useRef`, the `ImageClassifier` method is called and loaded with `MobileNet` model.
+After the image is loaded and reference passed via `useRef`, the `ImageClassifier` method is called and loaded with `MobileNet` model.
 
 One can use either `callback` or `Promise` style. I used `Promise` for convenience.
 
